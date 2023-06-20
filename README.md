@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-sad-zewalian&label=Profile%20views&color=0e75b6&style=flat" alt="the-sad-zewalian" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-sad-zewalian&theme=monokai&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=-1" alt="the-sad-zewalian" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=the-sad-zewalian&theme=monokai&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" alt="the-sad-zewalian" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
